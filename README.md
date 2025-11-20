@@ -62,44 +62,30 @@ Sistema de detección y respuesta en endpoints que monitoriza ejecuciones sospec
 - ✅ Análisis específico para ransomware
 - ✅ Soporte multi-plataforma (Windows/Linux)
 
----
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
 
 ---
 
 ## 📫 Conecta Conmigo
 
 - 📧 **Email:** apueyos95@gmail.com
-- 📱 **Teléfono:** +34 634 53 99 35
 - 💼 **LinkedIn:** [Enlace a tu perfil]
-- 🔐 **HackTheBox:** [Tu perfil de HTB]
 
 ---
 
 ## 🎓 Formación Académica
 
-- **Grado en Ingeniería Informática** - UNED (2018-2024)
+- **Grado en Ingeniería Informática** - UNED (2018-2025)
 - **Grado en Filosofía** - Universidad de Granada (2013-2018)
 
 ## 📚 Cursos Relevantes
 
 - Administración de Sistemas Linux (2023)
 - Ciberseguridad para Microempresas (2022)
-- Taller de Programación Avanzada: Sistema Operativo (2024)
-- Curso de Python & Java (2022)
-
----
-
-> **"La seguridad no es un producto, sino un proceso."** - Bruce Schneier
+- Taller de Programación Avanzada: construye tu propio Sistema Operativo (2024)
+- Curso de Python (2022)
+- Curso de Java (2022)
 
 ---
 
 🔐 **Nota:** Los proyectos aquí mostrados son tanto académicos como personales, creados con fines educativos y de investigación en ciberseguridad.
 
-**¿Buscas un perfil técnico con pasión por la ciberseguridad?** ¡No dudes en contactarme!
