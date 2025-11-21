@@ -8,13 +8,13 @@
 
 Soy **Graduado en Ingeniería Informática por la UNED** (a falta del Proyecto de Fin de Grado), con un grado previo en Filosofía por la UGR que me aporta una perspectiva única y analítica para abordar problemas complejos.
 
-Mi pasión es la **ciberseguridad**, especialmente la detección de intrusiones y la comprensión de los mecanismos que las sustentan. Soy una persona de intereses muy variados, lo que me ha llevado a involucrarme en plataformas como HackTheBox o OverTheWire para aprender pentesting de forma práctica.
+Mi pasión es la **ciberseguridad**, especialmente la detección de intrusiones y la comprensión de los mecanismos que las sustentan. Soy una persona de intereses muy variados, lo que me ha llevado a involucrarme en plataformas de CTF como HackTheBox o OverTheWire para aprender pentesting de forma práctica.
 
 En resumidas cuentas:
 
 🔭 **Proyecto actual**: Mi PFG, un **sistema EDR (Endpoint Detection and Response) en tiempo real** para la detección de ransomware en Windows 10 y Ubuntu.
 
-🌱 **Formación actual**: Especializándome en **análisis forense** y practicando constantemente en plataformas CTF.
+🌱 **Formación actual**: Especializándome en **análisis forense** por una parte y desarrollando la parte de Azure de mi proyecto.
 
 💼 **Busco**: Oportunidades en **ciberseguridad, análisis de seguridad o SOC**.
 
@@ -39,6 +39,7 @@ En resumidas cuentas:
 
 ### **🔍 Herramientas Específicas**
 `Wireshark` `Metasploit` `Nmap` `VirtualBox` `Nessus` `Lynis`
+
 ---
 
 ## 💼 Proyecto Destacado
@@ -46,29 +47,27 @@ En resumidas cuentas:
 ### **Sistema EDR - Detección de Malware en Tiempo Real** 🛡️
 
 **Descripción del Proyecto:**
-Sistema de detección y respuesta en endpoints que monitoriza ejecuciones sospechosas en **Windows 10 y Ubuntu**, utilizando algoritmos de ML para identificar comportamientos maliciosos.
+Sistema de detección y respuesta en endpoints que monitoriza ejecuciones sospechosas en Windows 10 y Ubuntu, utilizando algoritmos de Machine Learning para identificar comportamientos maliciosos. Actualmente implementado en local y en proceso de migración a Microsoft Azure para producción.
 
 **Stack Tecnológico:**
-- **Cloud:** Azure Data Lake, Cloud Services
-- **Machine Learning:** Modelos de detección de anomalías
-- **Lenguajes:** Python para procesamiento y análisis
-- **Sistemas:** Windows Event Logs, Linux auditd
-- **Seguridad:** Análisis de ransomware y malware
+- **Cloud:** Azure BLOB storage, Azure Functions, Azure Machine Learning Studio
+- **Machine Learning:** Ensemble con modelos basados en árboles (Random Forest, XGBoost, LightGBM) para clasificación binaria
+- **Lenguajes & herramientas:** Python, Jupyter Notebook, Pandas, Scikit-learn, librerias útiles para monitorización (Watchdog, psutil...)
+- **Sistemas:** Windows 10 y Ubuntu
+- **Datos:** Generados en infraestructura local con MVs de VirtualBox
 
 **Características Principales:**
 - ✅ Monitorización en tiempo real de procesos
 - ✅ Recolección centralizada de logs
 - ✅ Modelos ML para detección de anomalías
 - ✅ Análisis específico para ransomware
-- ✅ Soporte multi-plataforma (Windows/Linux)
-
 
 ---
 
 ## 📫 Conecta Conmigo
 
 - 📧 **Email:** apueyos95@gmail.com
-- 💼 **LinkedIn:** [Enlace a tu perfil]
+- 💼 **LinkedIn:** [www.linkedin.com/in/armando-pueyos-rodriguez]
 
 ---
 
@@ -84,8 +83,7 @@ Sistema de detección y respuesta en endpoints que monitoriza ejecuciones sospec
 - Taller de Programación Avanzada: construye tu propio Sistema Operativo (2024)
 - Curso de Python (2022)
 - Curso de Java (2022)
+- IA Technologies for Cybersecurity and IoT (2025)
 
 ---
-
-🔐 **Nota:** Los proyectos aquí mostrados son tanto académicos como personales, creados con fines educativos y de investigación en ciberseguridad.
 
