@@ -85,5 +85,82 @@ Sistema de detección y respuesta en endpoints que monitoriza ejecuciones sospec
 - Curso de Java (2022)
 - IA Technologies for Cybersecurity and IoT (2025)
 
+---------------
+
+👋 Hi, I'm Armando Pueyos Rodríguez
+Computer Engineer | Cybersecurity | Programmer
+
+🚀 About Me
+I am a **Computer Engineering Graduate from UNED (pending final thesis defense)**, with a prior degree in **Philosophy from UGR** that provides me with a unique and analytical perspective for solving complex problems.
+
+My passion is **cybersecurity**, specifically intrusion detection and understanding the underlying mechanisms. I am a person with diverse interests, which has led me to engage in **CTF platforms** to learn practical penetration testing.
+
+In a nutshell:
+
+🔭 **Current Project:** My Final Year Project: a real-time **EDR (Endpoint Detection and Response)** system for ransomware detection on Windows 10 and Ubuntu.
+
+🌱 **Currently Learning:** Specializing in **digital forensics** while simultaneously developing the **Azure cloud component** of my project.
+
+💼 **Looking For:** Entry-level opportunities in **cybersecurity, security analysis, or SOC roles**.
+
+📫 **How to Reach Me:** apueyos95@gmail.com
+
 ---
+
+🛠️ **Technologies & Skills**
+
+💻 **Programming & Scripting**
+`Python` `Java` `C` `Bash` `PowerShell` `SQL`
+
+🛡️ **Cybersecurity & Analysis**
+`EDR Systems` `Machine Learning` `Malware Analysis` `Digital Forensics` `ISO 27001`
+`Log Analysis` `Windows Event Logs` `Linux auditd` `Intrusion Detection`
+
+☁️ **Cloud & Platforms**
+`Azure` `Data Lake` `Cloud Security` `MySQL` `WordPress` `Docker`
+
+⚙️ **Operating Systems**
+`Windows 10/11` `System Administration` `OS Hardening` `GNU/Linux`
+
+🔍 **Specific Tools**
+`Wireshark` `Metasploit` `Nmap` `VirtualBox` `Nessus` `Lynis`
+
+---
+
+💼 **Featured Project**
+
+**Sistema EDR - Real-Time Malware Detection** 🛡️
+
+**Project Description:** An Endpoint Detection and Response system that monitors suspicious executions on Windows 10 and Ubuntu, using **Machine Learning algorithms** to identify malicious behavior. Currently implemented on-premises and in the process of being migrated to **Microsoft Azure** for production.
+
+**Tech Stack:**
+*   **Cloud:** Azure Blob Storage, Azure Functions, Azure Machine Learning
+*   **Machine Learning:** Ensemble with tree-based models (Random Forest, XGBoost, LightGBM) for binary classification.
+*   **Languages & Tools:** Python, Jupyter Notebook, Pandas, Scikit-learn, system monitoring libraries (Watchdog, psutil).
+*   **Systems:** Windows 10, Ubuntu
+*   **Data:** Generated on a local infrastructure with VirtualBox VMs.
+
+**Key Features:**
+✅ Real-time process monitoring
+✅ Centralized log collection
+✅ ML models for anomaly detection
+✅ Specific ransomware analysis
+
+---
+
+📫 **Connect With Me**
+📧 **Email:** apueyos95@gmail.com
+💼 **LinkedIn:** www.linkedin.com/in/armando-pueyos-rodriguez
+
+🎓 **Academic Background**
+*   BSc in Computer Engineering - UNED (2018-2025)
+*   BA in Philosophy - University of Granada (2013-2018)
+
+📚 **Relevant Courses & Certifications**
+*   Linux System Administration (2023)
+*   Cybersecurity for Small Businesses (2022)
+*   Advanced Programming Workshop: Build Your Own Operating System (2024)
+*   Python Course (2022)
+*   Java Course (2022)
+*   AI Technologies for Cybersecurity and IoT (2025)
 
