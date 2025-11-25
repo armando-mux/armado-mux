@@ -87,10 +87,10 @@ Sistema de detección y respuesta en endpoints que monitoriza ejecuciones sospec
 
 ---------------
 
-👋 Hi, I'm Armando Pueyos Rodríguez
+# 👋 Hi, I'm Armando Pueyos Rodríguez
 Computer Engineer | Cybersecurity | Programmer
 
-🚀 About Me
+## 🚀 About Me
 I am a **Computer Engineering Graduate from UNED (pending final thesis defense)**, with a prior degree in **Philosophy from UGR** that provides me with a unique and analytical perspective for solving complex problems.
 
 My passion is **cybersecurity**, specifically intrusion detection and understanding the underlying mechanisms. I am a person with diverse interests, which has led me to engage in **CTF platforms** to learn practical penetration testing.
@@ -107,7 +107,7 @@ In a nutshell:
 
 ---
 
-🛠️ **Technologies & Skills**
+## 🛠️ **Technologies & Skills**
 
 💻 **Programming & Scripting**
 `Python` `Java` `C` `Bash` `PowerShell` `SQL`
@@ -127,7 +127,7 @@ In a nutshell:
 
 ---
 
-💼 **Featured Project**
+## 💼 **Featured Project**
 
 **Sistema EDR - Real-Time Malware Detection** 🛡️
 
@@ -141,22 +141,29 @@ In a nutshell:
 *   **Data:** Generated on a local infrastructure with VirtualBox VMs.
 
 **Key Features:**
-✅ Real-time process monitoring
-✅ Centralized log collection
-✅ ML models for anomaly detection
-✅ Specific ransomware analysis
+
+- ✅ Real-time process monitoring
+
+- ✅ Centralized log collection
+
+- ✅ ML models for anomaly detection
+
+- ✅ Specific ransomware analysis
 
 ---
 
-📫 **Connect With Me**
-📧 **Email:** apueyos95@gmail.com
-💼 **LinkedIn:** www.linkedin.com/in/armando-pueyos-rodriguez
+## 📫 **Connect With Me**
+
+- 📧 **Email:** apueyos95@gmail.com
+
+- 💼 **LinkedIn:** www.linkedin.com/in/armando-pueyos-rodriguez
 
 🎓 **Academic Background**
-*   BSc in Computer Engineering - UNED (2018-2025)
-*   BA in Philosophy - University of Granada (2013-2018)
+- BSc in Computer Engineering - UNED (2018-2025)
+- BA in Philosophy - University of Granada (2013-2018)
 
-📚 **Relevant Courses & Certifications**
+## 📚 **Relevant Courses & Certifications**
+
 *   Linux System Administration (2023)
 *   Cybersecurity for Small Businesses (2022)
 *   Advanced Programming Workshop: Build Your Own Operating System (2024)
