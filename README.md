@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Sobre Mí
+## Sobre Mí
 
 Soy **Graduado en Ingeniería Informática por la UNED** (a falta del Proyecto de Fin de Grado), con un grado previo en Filosofía por la UGR que me aporta una perspectiva única y analítica para abordar problemas complejos.
 
@@ -12,39 +12,39 @@ Mi pasión es la **ciberseguridad**, especialmente la detección de intrusiones 
 
 En resumidas cuentas:
 
-🔭 **Proyecto actual**: Mi PFG, un **sistema EDR (Endpoint Detection and Response) en tiempo real** para la detección de ransomware en Windows 10 y Ubuntu.
+**Proyecto actual**: Mi PFG, un **sistema EDR (Endpoint Detection and Response) en tiempo real** para la detección de ransomware en Windows 10 y Ubuntu.
 
-🌱 **Formación actual**: Especializándome en **análisis forense** por una parte y desarrollando la parte de Azure de mi proyecto.
+**Formación actual**: Especializándome en **análisis forense** por una parte y desarrollando la parte de Azure de mi proyecto.
 
-💼 **Busco**: Oportunidades en **ciberseguridad, análisis de seguridad o SOC**.
+**Busco**: Oportunidades en **ciberseguridad, análisis de seguridad o SOC**.
 
-📫 Contáctame: apueyos95@gmail.com
+Contáctame: apueyos95@gmail.com
 
 ---
 
-## 🛠️ Tecnologías y Habilidades
+## Tecnologías y Habilidades
 
-### **💻 Programación & Scripting**
+### **Programación & Scripting**
 `Python` `Java` `C` `Bash` `PowerShell` `SQL`
 
-### **🛡️ Ciberseguridad & Análisis**
+### **Ciberseguridad & Análisis**
 `EDR Systems` `Machine Learning` `Análisis de Malware` `Análisis Forense` `ISO 27001`  
 `Análisis de Logs` `Windows Event Logs` `Linux auditd` `Detección de Intrusiones` 
 
-### **☁️ Cloud & Plataformas**
+### **Cloud & Plataformas**
 `Azure` `Data Lake` `Cloud Security` `MySQL` `WordPress` `Docker`
 
-### **⚙️ Sistemas Operativos**
+### **Sistemas Operativos**
 `Windows 10/11` `Administración de Sistemas` `Hardening OS` `GNU/Linux`
 
-### **🔍 Herramientas Específicas**
+### **Herramientas Específicas**
 `Wireshark` `Metasploit` `Nmap` `VirtualBox` `Nessus` `Lynis`
 
 ---
 
-## 💼 Proyecto Destacado
+## Proyecto Destacado
 
-### **Sistema EDR - Detección de Malware en Tiempo Real** 🛡️
+### **Sistema EDR - Detección de Malware en Tiempo Real** 
 
 **Descripción del Proyecto:**
 Sistema de detección y respuesta en endpoints que monitoriza ejecuciones sospechosas en Windows 10 y Ubuntu, utilizando algoritmos de Machine Learning para identificar comportamientos maliciosos. Actualmente implementado en local y en proceso de migración a Microsoft Azure para producción.
@@ -57,26 +57,26 @@ Sistema de detección y respuesta en endpoints que monitoriza ejecuciones sospec
 - **Datos:** Generados en infraestructura local con MVs de VirtualBox
 
 **Características Principales:**
-- ✅ Monitorización en tiempo real de procesos
-- ✅ Recolección centralizada de logs
-- ✅ Modelos ML para detección de anomalías
-- ✅ Análisis específico para ransomware
+-  Monitorización en tiempo real de procesos
+-  Recolección centralizada de logs
+-  Modelos ML para detección de anomalías
+-  Análisis específico para ransomware
 
 ---
 
-## 📫 Conecta Conmigo
+## Conecta Conmigo
 
 - 📧 **Email:** apueyos95@gmail.com
 - 💼 **LinkedIn:** [www.linkedin.com/in/armando-pueyos-rodriguez]
 
 ---
 
-## 🎓 Formación Académica
+## Formación Académica
 
 - **Grado en Ingeniería Informática** - UNED (2018-2025)
 - **Grado en Filosofía** - Universidad de Granada (2013-2018)
 
-## 📚 Cursos Relevantes
+## Cursos Relevantes
 
 - Administración de Sistemas Linux (2023)
 - Ciberseguridad para Microempresas (2022)
@@ -90,46 +90,46 @@ Sistema de detección y respuesta en endpoints que monitoriza ejecuciones sospec
 # 👋 Hi, I'm Armando Pueyos Rodríguez
 Computer Engineer | Cybersecurity | Programmer
 
-## 🚀 About Me
+## About Me
 I am a **Computer Engineering Graduate from UNED (pending final thesis defense)**, with a prior degree in **Philosophy from UGR** that provides me with a unique and analytical perspective for solving complex problems.
 
 My passion is **cybersecurity**, specifically intrusion detection and understanding the underlying mechanisms. I am a person with diverse interests, which has led me to engage in **CTF platforms** to learn practical penetration testing.
 
 In a nutshell:
 
-🔭 **Current Project:** My Final Year Project: a real-time **EDR (Endpoint Detection and Response)** system for ransomware detection on Windows 10 and Ubuntu.
+- **Current Project:** My Final Year Project: a real-time **EDR (Endpoint Detection and Response)** system for ransomware detection on Windows 10 and Ubuntu.
 
-🌱 **Currently Learning:** Specializing in **digital forensics** while simultaneously developing the **Azure cloud component** of my project.
+- **Currently Learning:** Specializing in **digital forensics** while simultaneously developing the **Azure cloud component** of my project.
 
-💼 **Looking For:** Entry-level opportunities in **cybersecurity, security analysis, or SOC roles**.
+- **Looking For:** Entry-level opportunities in **cybersecurity, security analysis, or SOC roles**.
 
-📫 **How to Reach Me:** apueyos95@gmail.com
+- **How to Reach Me:** apueyos95@gmail.com
 
 ---
 
-## 🛠️ **Technologies & Skills**
+##  **Technologies & Skills**
 
-💻 **Programming & Scripting**
+**Programming & Scripting**
 `Python` `Java` `C` `Bash` `PowerShell` `SQL`
 
-🛡️ **Cybersecurity & Analysis**
+**Cybersecurity & Analysis**
 `EDR Systems` `Machine Learning` `Malware Analysis` `Digital Forensics` `ISO 27001`
 `Log Analysis` `Windows Event Logs` `Linux auditd` `Intrusion Detection`
 
-☁️ **Cloud & Platforms**
+**Cloud & Platforms**
 `Azure` `Data Lake` `Cloud Security` `MySQL` `WordPress` `Docker`
 
-⚙️ **Operating Systems**
+**Operating Systems**
 `Windows 10/11` `System Administration` `OS Hardening` `GNU/Linux`
 
-🔍 **Specific Tools**
+**Specific Tools**
 `Wireshark` `Metasploit` `Nmap` `VirtualBox` `Nessus` `Lynis`
 
 ---
 
-## 💼 **Featured Project**
+## **Featured Project**
 
-**Sistema EDR - Real-Time Malware Detection** 🛡️
+**Sistema EDR - Real-Time Malware Detection** 
 
 **Project Description:** An Endpoint Detection and Response system that monitors suspicious executions on Windows 10 and Ubuntu, using **Machine Learning algorithms** to identify malicious behavior. Currently implemented on-premises and in the process of being migrated to **Microsoft Azure** for production.
 
@@ -142,27 +142,27 @@ In a nutshell:
 
 **Key Features:**
 
-- ✅ Real-time process monitoring
+ Real-time process monitoring
 
-- ✅ Centralized log collection
+- Centralized log collection
 
-- ✅ ML models for anomaly detection
+- ML models for anomaly detection
 
-- ✅ Specific ransomware analysis
+- Specific ransomware analysis
 
 ---
 
-## 📫 **Connect With Me**
+## **Connect With Me**
 
-- 📧 **Email:** apueyos95@gmail.com
+- **Email:** apueyos95@gmail.com
 
-- 💼 **LinkedIn:** www.linkedin.com/in/armando-pueyos-rodriguez
+-  **LinkedIn:** www.linkedin.com/in/armando-pueyos-rodriguez
 
-🎓 **Academic Background**
+ **Academic Background**
 - BSc in Computer Engineering - UNED (2018-2025)
 - BA in Philosophy - University of Granada (2013-2018)
 
-## 📚 **Relevant Courses & Certifications**
+##  **Relevant Courses & Certifications**
 
 *   Linux System Administration (2023)
 *   Cybersecurity for Small Businesses (2022)
